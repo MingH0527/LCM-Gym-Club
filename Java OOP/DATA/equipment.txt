@@ -1,0 +1,12 @@
+E001,Treadmill,Window Area,CARDIO,AVAILABLE
+E002,Treadmill,Window Area,CARDIO,IN_USE
+E003,Elliptical Trainer,Window Area,CARDIO,AVAILABLE
+E004,Elliptical Trainer,Window Area,CARDIO,AVAILABLE
+E005,Spinning Bike,Cycle Studio,CARDIO,MAINTENANCE
+E006,Spinning Bike,Cycle Studio,CARDIO,AVAILABLE
+E007,Smith Machine,Free Weights,STRENGTH,IN_USE
+E008,Smith Machine,Free Weights,STRENGTH,AVAILABLE
+E009,Leg Press Machine,Strength Zone,STRENGTH,AVAILABLE
+E010,Cable Cross Station,Strength Zone,STRENGTH,AVAILABLE
+E011,CX,B001,STRENGTH,IN_USE
+E012,cxx,Good,STRENGTH,AVAILABLE
